@@ -1,5 +1,5 @@
 
-# MorkieNFT
+# Morkie NFT
 
 **Auto Minting NFT On Morkie**
 
